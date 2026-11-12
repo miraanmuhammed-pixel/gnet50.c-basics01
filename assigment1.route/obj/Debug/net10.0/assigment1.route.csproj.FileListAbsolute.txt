@@ -1,0 +1,14 @@
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/bin/Debug/net10.0/assigment1.route
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/bin/Debug/net10.0/assigment1.route.deps.json
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/bin/Debug/net10.0/assigment1.route.runtimeconfig.json
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/bin/Debug/net10.0/assigment1.route.dll
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/bin/Debug/net10.0/assigment1.route.pdb
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.AssemblyInfoInputs.cache
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.AssemblyInfo.cs
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.csproj.CoreCompileInputs.cache
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.dll
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/refint/assigment1.route.dll
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.pdb
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/assigment1.route.genruntimeconfig.cache
+/Users/miranmuhammedmuhammmedelhusseinii/RiderProjects/assigment1.route.solution/assigment1.route/obj/Debug/net10.0/ref/assigment1.route.dll
